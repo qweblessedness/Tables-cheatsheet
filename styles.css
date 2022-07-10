@@ -1,0 +1,33 @@
+
+body{
+    background-color: #DCDCDC;
+    font-family:"Arial",sans-serif;
+}
+h1{
+    text-align:center;
+    margin-bottom:8px;
+}
+
+h2{
+    text-align:center;
+    color: #639;
+}
+
+table{
+    border:2px solid darkorchid;
+    margin: 0 auto;
+}
+
+th{
+    background-color:plum;
+}
+
+td{
+    border-top: 1px solid darkorchid;
+    border-right: 1px solid darkorchid;
+}
+
+.code{
+    font-family:monospace;
+    background-color: beige;
+}
